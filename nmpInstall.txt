@@ -1,0 +1,13 @@
+$ mkdir myapp
+$ cd myapp
+
+npm init
+
+npm install express --save
+npm install express
+
+npm install mongoose
+npm install body-parser
+npm install mongoose-unique-validator --save
+npm install bcryptjs --save
+npm install jsonwebtoken --save
