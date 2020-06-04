@@ -11,3 +11,7 @@ npm install body-parser
 npm install mongoose-unique-validator --save
 npm install bcryptjs --save
 npm install jsonwebtoken --save
+
+para los archivos utilizaremos express-fileupload
+
+npm install --save express-fileupload
