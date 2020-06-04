@@ -15,3 +15,7 @@ npm install jsonwebtoken --save
 para los archivos utilizaremos express-fileupload
 
 npm install --save express-fileupload
+
+
+autenticacion con google
+npm install google-auth-library --save
